@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageelbaraa&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelbaraa&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
 
 ### Hi there 👋 I'm Albara Mustafa!
 

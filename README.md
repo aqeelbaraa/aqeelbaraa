@@ -49,13 +49,13 @@ Here are a few projects that highlight my skills and passions. Feel free to dive
 Connect with me and explore my work:
 
 [![https://www.linkedin.com/in/ageelbaraa](https://img.shields.io/badge/follow%20me-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/ageelbaraa)
-[![See My Work on GitHub](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/ageelbaraa)
+[![See My Work on GitHub](https://img.shields.io/badge/See-MyWork-blue?style=for-the-badge)](https://github.com/aqeelbaraa)
 [![Email Me](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ageelbaraa@gmail.com)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ageelbaraa&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aqeelbaraa&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ageelbaraa/count.svg" />
+  <img src="https://profile-counter.glitch.me/aqeelbaraa/count.svg" />
 </p>
